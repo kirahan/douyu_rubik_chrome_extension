@@ -1,0 +1,9 @@
+.timer_section {
+    position:absolute;
+    margin-top:-50px;
+    text-align:center;
+    z-index: 999999999
+}
+.msms {
+    line-height:100px;
+   }

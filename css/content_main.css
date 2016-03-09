@@ -1,0 +1,66 @@
+.mainbutton{
+    position: fixed;
+    right: 15px;
+    top: 500px;
+    z-index: 999999;
+}
+.extension-btn{
+    margin-left: 5px;
+    color:#ffffff;
+    padding: 5px 8px;
+    background: #f60;
+    border-radius: 4px;
+    border: 1px solid #f75700;
+    height: 40px;
+}
+
+.douyubutton{
+    padding-bottom: 5px;
+    top:550px;
+}
+#timer-setting{
+    display: none;
+}
+.timer-setting{
+    top: 0px;
+    float:left;
+    margin-left: 20px;
+    position: relative;
+    z-index:999999999;
+}
+.timer-setting p{
+    color: red;
+    position: relative;
+    font-size: 18px;
+}
+.timer-position{
+    float: left;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.timer-position input{
+    width: 40px;
+
+}
+.timer-position span{
+    font-size: 14px;
+    float: left;
+}
+
+.timer-size ,.timer-color{
+    float: left;
+    margin: 0px;
+    padding-left: 10px;
+}
+.timer-color p , .timer-size p {
+    font-size: 18px;
+    color: red;
+}
+.timer-size input{
+    width: 40px;
+}
+.timer-color input{
+    width: 40px;
+}
